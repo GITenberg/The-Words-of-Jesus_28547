@@ -1,0 +1,30 @@
+_repo: The-Words-of-Jesus_28547
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Macduff, John R. (John Ross)
+    aliases:
+    - Macduff, J. R. (John Ross)
+    - Macduff, John Ross
+    birthdate: 1818
+    deathdate: 1895
+    gutenberg_agent_id: '8898'
+    url: http://www.gutenberg.org/2009/agents/8898
+description: The words of Jesus -- The mind of Jesus -- The faithful promiser.
+gutenberg_issued: '2009-04-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28547'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BT'
+- !lcsh 'Devotional exercises'
+- !lcsh 'Jesus Christ -- Words'
+title: The Words of Jesus
+url: http://www.gutenberg.org/ebooks/28547
